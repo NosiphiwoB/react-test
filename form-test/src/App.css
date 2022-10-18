@@ -38,13 +38,10 @@ body {
 }
 .form {
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
   background-color: rgba(255, 255, 255, 0.274);
-  border-radius: 40%;
-}
-
-#age {
-  width: 88px;
+  border-radius: 30%;
+  max-width: 100%;
 }
 
 #submit {
@@ -55,3 +52,6 @@ button {
   border-radius: 10%;
 }
 
+h1 {
+font-style: unset;
+}
